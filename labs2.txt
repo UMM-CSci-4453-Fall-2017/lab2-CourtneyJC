@@ -1,0 +1,31 @@
+Group members: Nathan Beneke and Courtney Cook
+
+Initial Ideas: 
+      Things I'd need to do:
+          ring up individual items
+          enter amount of particular items bought (if buying six lamps, scan one and multiply by six instead of scanning six)
+          sort purchases (group items by home, clothing, food, media, etc)
+          remove incorrectly scanned item
+          total up the cost
+          enter name of cashier?
+          find time of transaction?
+          apply discounts/coupons?
+          update amount of items in inventory (decrease by however many the customer is buying)
+          track how products were purchased? (check, card, cash, etc)
+          log time in/ time out (hours worked)
+          
+          
+      Things the company (?) would need to do
+          return an item
+          exchange an item
+          change/update items in inventory
+          change/update prices
+          update amount of items in inventory (order more when running out)
+          track employee name, DOB, wage, maybe how long they've worked (and maybe how much they've worked and earned)
+          schedule workers? (and therefore, keep track of when employees can and cannot work)
+          send out pay? (multiply wage by hours worked and assign to the correct employee)
+          
+          
+          
+          
+(my group partner is out of town Friday)          
